@@ -1,0 +1,14 @@
+{
+  "name": "windows_baseline",
+  "version": "0.1.0",
+  "author": "marshyski",
+  "summary": "Basic Puppet module to manage Windows baseline",
+  "license": "Apache 2.0",
+  "source": "https://github.com/marshyski/windows_baseline",
+  "project_page": "https://github.com/marshyski/windows_baseline",
+  "issues_url": "https://github.com/marshyski/windows_baseline/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
